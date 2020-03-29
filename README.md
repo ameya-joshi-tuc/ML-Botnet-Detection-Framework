@@ -2,7 +2,7 @@
 
 Repository for a machine learning based botnet detection framework based on SDN written in Python3
 
-# Files:
+# File:
 
 botnet_detection_framework.py -
 Contains the main framework which can operate in offline and online(real-time) mode. The machine learning algorithms used are One Class Support Vector Machines, Local Outlier Factor, Autoencoders, Kernel Density Estimation and Restricted Boltzmann Machines
